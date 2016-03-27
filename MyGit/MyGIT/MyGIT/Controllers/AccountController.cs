@@ -15,6 +15,7 @@ namespace MyGIT.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+        // tO TEST
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
